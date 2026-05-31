@@ -34,6 +34,3 @@ Credits:
 ____________________________________________________________________
 The discord user who came up with the idea
 
-Questions:
-____________________________________________________________________
-If you have any questions feel free to contact me via the posts section of the mod nexus page.
